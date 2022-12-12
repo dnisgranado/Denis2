@@ -1,0 +1,11 @@
+/data/user/0/org.qpython.qpy3/files/bin/qpython3-android5.sh && exit
+iles/bin/qpython3-android5.sh && exit   <
+Python 3.6.6 (qpyc:3.6.6, Jul 26 2018, 03:54:22) [BUILD WITH QPY3-TOOLCHAIN (https://github.com/qpython-android) ] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a="hola mundo"
+>>> print (a)
+hola mundo
+>>> a="mi segundo ejercicio"
+>>> print(a)
+mi segundo ejercicio
+>>>
